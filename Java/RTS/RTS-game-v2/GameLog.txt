@@ -1,0 +1,123 @@
+Team 0.00	Mine	0	Team 0.00	Mine	1	1261
+Team 0.00	Mine	1	Team 0.00	Mine	0	1293
+Team 0.00	Anty	0	Team 0.00	Anty	1	1499
+Team 0.00	Anty	1	Team 0.00	Anty	0	1112
+Team 0.00	Anty	0	Team 0.00	Anty	1	2416
+Team 0.00	Anty	0	Team 0.00	Anty	1	1145
+Team 0.00	Anty	0	Team 0.00	Anty	1	1750
+Team 0.00	Random	0	Team 0.00	Random	1	1167
+Team 0.00	Random	1	Team 0.00	Random	0	1343
+Random Player	Random	0	Heuristic Player	Heuristic	1	1797
+Random Player	Random	0	Random Player	Random	1	2424
+Random Player	Random	1	Random Player	Random	0	1227
+Random Player	Random	1	Random Player	Random	0	1132
+Random Player	Random	0	Random Player	Random	1	1112
+Random Player	Random	1	Random Player	Random	0	1621
+Random Player	Random	1	Random Player	Random	0	1332
+Random Player	Random	1	Random Player	Random	0	988
+Random Player	Random	1	Random Player	Random	0	2357
+Random Player	Random	1	Random Player	Random	0	1713
+Heuristic Player	Heuristic	0	Random Player	Random	1	951
+Heuristic Player	Heuristic	1	Random Player	Random	0	837
+Heuristic Player	Heuristic	1	Random Player	Random	0	837
+Heuristic Player	Heuristic	1	Random Player	Random	0	837
+Heuristic Player	Heuristic	0	Heuristic Player	Heuristic	1	765
+Heuristic Player	Heuristic	0	Heuristic Player	Heuristic	0	10000
+Heuristic Player	Heuristic	1	Heuristic Player	Heuristic	0	865
+Heuristic Player	Heuristic	0	Heuristic Player	Heuristic	1	780
+Heuristic Player	Heuristic	0	Heuristic Player	Heuristic	1	779
+Heuristic Player	Heuristic	0	Heuristic Player	Heuristic	1	775
+Heuristic Player	Heuristic	1	Random Player	Random	0	926
+Heuristic Player	Heuristic	1	Random Player	Random	0	926
+Heuristic Player	Heuristic	1	Random Player	Random	0	928
+Heuristic Player	Heuristic	1	Random Player	Random	0	811
+Heuristic Player	Heuristic	1	Random Player	Random	0	4277
+Random Player	Random	1	Random Player	Random	0	1209
+Random Player	Random	0	Random Player	Random	1	979
+Heuristic Player	Heuristic	1	Random Player	Random	0	920
+Heuristic Player	Heuristic	0	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	Random Player	Random	1	3675
+Heuristic Player	Heuristic	1	Random Player	Random	0	930
+Heuristic Player	Heuristic	1	Random Player	Random	0	863
+Heuristic Player	Heuristic	1	Random Player	Random	0	977
+Heuristic Player	Heuristic	1	Random Player	Random	0	4113
+Heuristic Player	Heuristic	0	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	4113
+Heuristic Player	Heuristic	0	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	Random Player	Random	1	2070
+Heuristic Player	Heuristic	0	Random Player	Random	1	1262
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	Random Player	Random	1	1011
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	797
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	20000
+Heuristic Player	Heuristic	1	Random Player	Random	0	24023
+Heuristic Player	Heuristic	0	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	1873
+Heuristic Player	Heuristic	1	Random Player	Random	0	1873
+Heuristic Player	Heuristic	1	Random Player	Random	0	1299
+Heuristic Player	Heuristic	1	Random Player	Random	0	1873
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	Random Player	Random	1	993
+Heuristic Player	Heuristic	0	Random Player	Random	1	993
+Heuristic Player	Heuristic	0	Random Player	Random	1	993
+Heuristic Player	Heuristic	0	Random Player	Random	1	910
+Heuristic Player	Heuristic	0	Random Player	Random	1	2017
+Heuristic Player	Heuristic	1	Random Player	Random	0	10000
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	993
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	993
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	1873
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	1299
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	1873
+Heuristic Player	Heuristic	1	SimpleDefensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	7156
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	993
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	1011
+Heuristic Player	Heuristic	1	Random Player	Random	0	916
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	993
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	993
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	1079
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	1079
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	SimpleDefensive	Random	0	10000
+Heuristic Player	Heuristic	0	OneLaneOffensive	Random	1	10000
+Heuristic Player	Heuristic	1	SimpleDefensive	Random	0	10000
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	0	MultiLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	8543
+Heuristic Player	Heuristic	1	SimpleDefensive	Random	0	10000
+Heuristic Player	Heuristic	1	SimpleDefensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	MultiLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	Random Player	Random	0	1428
+Heuristic Player	Heuristic	1	Random Player	Random	0	1069
+Heuristic Player	Heuristic	1	Random Player	Random	0	1054
+Heuristic Player	Heuristic	1	Random Player	Random	0	941
+Heuristic Player	Heuristic	1	Random Player	Random	0	1251
+Heuristic Player	Heuristic	0	MultiLaneOffensive	Random	0	10000
+Heuristic Player	Heuristic	1	OneLaneOffensive	Random	0	8543

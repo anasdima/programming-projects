@@ -1,0 +1,11 @@
+Team 0.00	Mine	0	Team 0.00	Mine	1	1261
+Team 0.00	Mine	1	Team 0.00	Mine	0	1293
+Team 0.00	Anty	0	Team 0.00	Anty	1	1499
+Team 0.00	Anty	1	Team 0.00	Anty	0	1112
+Team 0.00	Anty	0	Team 0.00	Anty	1	2416
+Team 0.00	Anty	0	Team 0.00	Anty	1	1145
+Team 0.00	Anty	0	Team 0.00	Anty	1	1750
+Team 0.00	null	1	Team 0.00	null	0	540
+Team 0.00	null	1	Team 0.00	null	0	589
+Team 0.00	playerA	0	Team 0.00	playerB	1	2621
+Team 0.00	playerA	1	Team 0.00	playerB	0	1172
