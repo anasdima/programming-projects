@@ -1,0 +1,54 @@
+<html lang='en'>
+<head>
+  <title>Nyaplot</title>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js"></script>
+  <script>if(window['d3'] === undefined ||
+   window['Nyaplot'] === undefined){
+    var path = {"d3":"http://d3js.org/d3.v3.min"};
+
+
+
+    var shim = {"d3":{"exports":"d3"}};
+
+    require.config({paths: path, shim:shim});
+
+
+require(['d3'], function(d3){window['d3']=d3;console.log('finished loading d3');
+
+	var script = d3.select("head")
+	    .append("script")
+	    .attr("src", "http://cdn.rawgit.com/domitry/Nyaplotjs/master/release/nyaplot.js")
+	    .attr("async", true);
+
+	script[0][0].onload = script[0][0].onreadystatechange = function(){
+
+
+	    var event = document.createEvent("HTMLEvents");
+	    event.initEvent("load_nyaplot",false,false);
+	    window.dispatchEvent(event);
+	    console.log('Finished loading Nyaplotjs');
+
+	};
+
+
+});
+}
+</script>
+</head>
+<body><div id='vis-4c171db8-5eac-4042-b2b5-ced51077dfd3'></div>
+<script>
+(function(){
+    var render = function(){
+        var model = {"panes":[{"diagrams":[{"type":"bar","options":{"x":"data0","y":"data1"},"data":"3b3d3d35-2b51-44f2-9fcc-ce9dc8f16065"}],"options":{"x_label":"Organization","y_label":"Count","width":1800,"height":750,"legend":true,"rotate_x_label":300,"xrange":["Renel","Δημόκριτος","ΙΜΕΤ","ΙΠΤΗΛ","ΟΤΕ"],"yrange":[0,1]}}],"data":{"3b3d3d35-2b51-44f2-9fcc-ce9dc8f16065":[{"data0":"Renel","data1":1},{"data0":"Δημόκριτος","data1":1},{"data0":"ΙΜΕΤ","data1":1},{"data0":"ΙΠΤΗΛ","data1":1},{"data0":"ΟΤΕ","data1":1}]},"extension":[]}
+        Nyaplot.core.parse(model, '#vis-4c171db8-5eac-4042-b2b5-ced51077dfd3');
+    };
+    if(window['Nyaplot']==undefined){
+        window.addEventListener('load_nyaplot', render, false);
+	return;
+    } else {
+       render();
+    }
+})();
+</script>
+</body>
+</html>

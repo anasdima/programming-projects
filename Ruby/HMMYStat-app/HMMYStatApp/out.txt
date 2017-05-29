@@ -1,0 +1,6 @@
+Puma 2.11.1 starting...
+* Min threads: 0, max threads: 16
+* Environment: development
+* Listening on tcp://0.0.0.0:4567
+{"rules"=>"Grades.Grade>5", "function-parameters"=>"Students", "function-choice"=>"Count", "axis"=>"Students.Moved"}
+SELECT A1.Moved, Count(A1.Id) AS Count FROM Grades A0, Students A1 WHERE A1.Id = A0.Student_Id AND A0.Grade>5  GROUP BY A1.Moved

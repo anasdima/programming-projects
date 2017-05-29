@@ -1,0 +1,22 @@
+
+<div class="container">
+  <h2>Perform a query</h2>
+  <form role="form" action="tables" method="POST">
+    <div class="form-group">
+      <label for="tables">Type the tables you want statistics from (comma seperated):</label>
+      <input class="form-control" name="tables" placeholder="Tables">
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form>
+  <label><%= $label1 %></label>
+  <%= $tables_message %>
+  <div><%= $rules_form %></div>
+  <%= $rules_message %>
+  <div><%= $functions_form %></div>
+</div>
+
+
+
+
+
+

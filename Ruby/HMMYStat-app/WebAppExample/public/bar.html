@@ -1,0 +1,54 @@
+<html lang='en'>
+<head>
+  <title>Nyaplot</title>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js"></script>
+  <script>if(window['d3'] === undefined ||
+   window['Nyaplot'] === undefined){
+    var path = {"d3":"http://d3js.org/d3.v3.min"};
+
+
+
+    var shim = {"d3":{"exports":"d3"}};
+
+    require.config({paths: path, shim:shim});
+
+
+require(['d3'], function(d3){window['d3']=d3;console.log('finished loading d3');
+
+	var script = d3.select("head")
+	    .append("script")
+	    .attr("src", "http://cdn.rawgit.com/domitry/Nyaplotjs/master/release/nyaplot.js")
+	    .attr("async", true);
+
+	script[0][0].onload = script[0][0].onreadystatechange = function(){
+
+
+	    var event = document.createEvent("HTMLEvents");
+	    event.initEvent("load_nyaplot",false,false);
+	    window.dispatchEvent(event);
+	    console.log('Finished loading Nyaplotjs');
+
+	};
+
+
+});
+}
+</script>
+</head>
+<body><div id='vis-e74a875c-1c6b-4544-ab51-a1bda82260a4'></div>
+<script>
+(function(){
+    var render = function(){
+        var model = {"panes":[{"diagrams":[{"type":"bar","options":{"x":"data0","y":"data1"},"data":"0e64b293-dba7-43f1-ad62-dfeba2712220"}],"options":{"x_label":"Βαθμοί","y_label":"Αριθμός βαθμών","width":700,"xrange":["1.0","2.0","3.0","4.0","5.0","6.0","7.0","8.0","9.0","10.0"],"yrange":[0,22905]}}],"data":{"0e64b293-dba7-43f1-ad62-dfeba2712220":[{"data0":"1.0","data1":22847},{"data0":"2.0","data1":22763},{"data0":"3.0","data1":22905},{"data0":"4.0","data1":22744},{"data0":"5.0","data1":5345},{"data0":"6.0","data1":5199},{"data0":"7.0","data1":5250},{"data0":"8.0","data1":5282},{"data0":"9.0","data1":5417},{"data0":"10.0","data1":5296}]},"extension":[]}
+        Nyaplot.core.parse(model, '#vis-e74a875c-1c6b-4544-ab51-a1bda82260a4');
+    };
+    if(window['Nyaplot']==undefined){
+        window.addEventListener('load_nyaplot', render, false);
+	return;
+    } else {
+       render();
+    }
+})();
+</script>
+</body>
+</html>

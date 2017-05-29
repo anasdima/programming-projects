@@ -1,0 +1,16 @@
+Exams_Subjects
+Exams_Subjects.Year=2012,Exams_Subjects.Period=N'Ε',Exams_Subjects.Semester=6
+Exams_Subjects.Title,Exams_Subjects.Subscribed
+
+Exams_Subjects
+Exams_Subjects.Semester=5,Exams_Subjects.Year=2013
+Exams_Subjects.Title,Exams_Subjects.Average_Grade
+
+InternshipStudents,Internships,BranchStudents,Branches,Students
+Branches.Title=N'Ηλεκτρονικής'
+InternshipStudents - count
+Internships.Organization
+
+BranchStudents
+BranchStudents - count
+BranchStudents.Semester
