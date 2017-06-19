@@ -109,7 +109,17 @@ A program that detects if two graphs are isomorphic
 
 ### Real time measurements
 
-A program that tries to detect as fast as possible a change in memory and measures the detection time. The program is multithreaded and it was developed as part of an Embedded Systems university course. In order to better organize the time measurements, bash test scripts were written.
+A program that tries to detect as fast as possible a change in memory and measures the detection time. The program is multithreaded and it was developed as part of an Embedded Systems university course. Also, in order to better organize the time measurements, bash test scripts were written.
+
+## MATLAB
+
+### Digital Image Processing
+
+Scripts that were written for two topics: 2D Convolution and Wiener Filters. Regarding the 2D convolution, four scripts were written: Two that perform a normal convolution, one that performs convolution with DFT coefficients and one self-thought solution that performs a very fast 2D convolution using indexes. Regarding Wiener Filters three scripts were written with the purpose of applying a filter type to a 2D image. All the scripts are showcased in demo scripts.
+
+### Pattern Recognition
+
+Scripts that were written to assist in Pattern Recognition process. The outliers scripts were used in synergy with a ruby-written preprocessor to remove outliers from the dataset using the KNN method. The Principal Component Analysis scripts were written to help with the dimensionality reduction problem. Lastly the evaluate script was written to evaluate the clustering results with the silhouette metric.
 
 ## C, C++ and Assembly assignments
 
@@ -127,8 +137,9 @@ github.com/AlDanial/cloc v 1.72
 | CUDA              |              2   |          219   |           22     |        409 
 | Java              |             24   |         1211   |          150     |       4389 
 | C++               |              7   |          369   |           26     |       1100 
+| MATLAB            |             19   |          131   |            5     |        406
 | Assembly          |              7   |          531   |           84     |       1046 
 | Bourne Shell      |              4   |            4   |            0     |         66 
-| **SUM**:          |        **115**   |     **3766**   |      **724**     |  **15119**
+| **SUM**:          |        **134**   |     **3897**   |      **729**     |  **15525**
 
 
